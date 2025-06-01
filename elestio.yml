@@ -1,4 +1,4 @@
 elestio:
   build:
-    type: static   # tells the pipeline “no build, just publish these files”
-    dist: .        # serve the repo root
+    type: static
+    dist: docs
